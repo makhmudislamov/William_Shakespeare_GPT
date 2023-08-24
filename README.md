@@ -3,7 +3,7 @@
 
 ## Just having fun with ChatGPT
 
-### WilliamGPT is quite fun haha:
+### WilliamGPT is quite creative haha:
 
 ![Alt Text](williamGPT.gif)
 
